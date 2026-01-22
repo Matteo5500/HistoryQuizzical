@@ -41,11 +41,11 @@ npm run dev
 
 Open the app: Navigate to http://localhost:5173 in your browser.
 
-##Start Screen
+Start Screen
 ![Start Screen](HistoryQuizzical_1.png)
 
-##Quizz Screen
+Quizz Screen
 ![Quizz Screen](HistoryQuizzical_2.png)
 
-##Check answer
+Check answer
 ![Check answer](HistoryQuizzical_3.png)
