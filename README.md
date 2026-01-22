@@ -26,21 +26,17 @@ To get a local copy up and running, follow these steps:
 Clone the repository:
 bash
 git clone github.com
-Usa il codice con cautela.
 
 Install dependencies:
 bash
 npm install
-Usa il codice con cautela.
 
 Install the 'he' library (if not already present):
 bash
 npm install he
-Usa il codice con cautela.
 
 Run the development server:
 bash
 npm run dev
-Usa il codice con cautela.
 
 Open the app: Navigate to http://localhost:5173 in your browser.
